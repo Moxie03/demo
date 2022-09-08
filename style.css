@@ -1,0 +1,34 @@
+
+
+
+/* selection by tag */
+div {
+    /* background: tomato; */
+    width: 300px;
+    padding: 20px;
+    display: inline-block;
+}
+
+/* selection by class */
+.firstdiv {
+    background: tomato;
+
+}
+/* selection by ID */
+#seconddiv{
+    background: #d7d7d7;
+}
+
+/* selection by class */
+.thirddiv{
+    background: violet;
+}
+
+.parentdiv{
+    display: block;
+    /* background: black; */
+    width: 90%;
+    /* height: 200px; */
+    margin: 0 auto;
+    text-align: center;
+}
